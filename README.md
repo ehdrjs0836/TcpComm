@@ -7,7 +7,7 @@ TCP/IP Server and Client Program on Ubuntu Linux.
   
   2. How to compile for client
   
-    & gcc -o client tcpip11.c
+   & gcc -o client tcpip11.c
     
    3. Run the server 
    
